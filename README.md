@@ -1,6 +1,3 @@
-![WhatsApp Image 2025-11-28 at 15 56 10_e9135d1d](https://github.com/user-attachments/assets/84ef5a72-43eb-40b5-b4fc-f3121ecf69b9)# DSBSC
-
-
 EX NO: 2	DSB-SC-AM MODULATOR AND DEMODULATOR
 
 AIM:
@@ -73,8 +70,7 @@ Output Graph
 
 Tablular Column
 
-![WhatsApp Image 2025-11-28 at 15 56 10_f6305d04](https://github.com/user-attachments/assets/529c7f6b-fb78-4904-976e-6d1393119249)
-
+![WhatsApp Image 2025-11-28 at 15 56 10_b0ebf551](https://github.com/user-attachments/assets/58310e75-d724-4cfa-9a3a-6d45c6361b06)
 
 Result
 
